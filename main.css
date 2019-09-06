@@ -1,0 +1,17 @@
+body {
+    background: #ccc;
+    font-family: 'Montserrat', sans-serif;
+    padding: 1.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+.green {
+    color: rgb(10, 172, 4);
+}
+
+.blue {
+    color: blue;
+}
