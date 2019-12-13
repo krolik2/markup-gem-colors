@@ -57,4 +57,5 @@ ul {
 .headline {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
